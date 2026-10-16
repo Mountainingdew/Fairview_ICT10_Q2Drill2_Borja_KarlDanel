@@ -1,0 +1,13 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+form {
+	display: grid;
+	gap: 8px;
+}
+
+input,
+button {
+	padding: 6px;
+}
